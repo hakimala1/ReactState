@@ -1,0 +1,39 @@
+h3 {
+    background-color: #282c34;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+h3:hover{
+    background-color: white;
+    color:#282c34;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+p{
+    text-align: justify;
+    text-justify: inter-word;
+    text-align: center;
+}
+  .mise{
+      margin-right: 25%;
+      margin-left: 25%;
+    
+  }
+  .name{
+      margin-bottom: 15px;
+      margin-top: 15px;
+      padding-top: 15px;
+  }
+  .bio{
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+  }
+
+  .pro{
+    
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-bottom: 30px;
+  }
